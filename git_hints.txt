@@ -1,0 +1,7 @@
+git init -> inicializa o git na pasta
+
+git config --global user.name "Pedro Elias" -> cria o user pedro elias
+
+git config --global user.email "pedroemperes@gmail.com" ->cria o email para o user
+
+git config -l  -> mostra os configs
